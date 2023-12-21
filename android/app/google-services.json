@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541373362556",
+    "project_id": "homechat-335ba",
+    "storage_bucket": "homechat-335ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541373362556:android:e3e375c94b328fdea3b4f9",
+        "android_client_info": {
+          "package_name": "com.example.homechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNiXM6rUC8-R6VOr5XW2vUppgqkzhu7LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
